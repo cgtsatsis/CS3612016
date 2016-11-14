@@ -1,2 +1,0 @@
-# ZellersCongruence
-# ZellersCongruence
